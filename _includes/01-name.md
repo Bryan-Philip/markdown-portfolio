@@ -1,1 +1,2 @@
-Replace this with your name, and include a header.
+# <h1> Git Guru</>
+# <h2> Name: Bryan Philip</h2>
