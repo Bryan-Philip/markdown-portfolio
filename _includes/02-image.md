@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+# ![Picture of Bryan Philip](https://photos.app.goo.gl/YnC9iwkmHM1aGXDs9)
